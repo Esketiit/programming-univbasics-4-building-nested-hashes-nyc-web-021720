@@ -35,9 +35,15 @@ def monopoly_with_third_tier
 				},
 				:names => {
 					:reading_railroad => {},
+<<<<<<< HEAD
 					:pennsylvania_railroad => {},
 					:b_and_o_railroad => {},
 					:shortline_railroad => {}
+=======
+					:key6 => "",
+					:key7 => "",
+					:key8 => ""
+>>>>>>> e5a9aa3c008c3790fd12fe59acfa1fa8d89e143c
 				}
 			}
 		}
